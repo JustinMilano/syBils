@@ -6,30 +6,30 @@ DATE AT THE TIME OF WRITING:
 
                                                      [ATTENTION!]:
 (ARBITRIUM SCAN): : All wallets have the same transfer at the same time!
-Sybil adress wallet:                                                                        date:                                                From:                                                                                                                        To:                                                 Value:
+Sybil adress wallet:                                                                                                                                                                                                                                                                 date:                                                                    To:                                      Value:
 
-0x795ca0291898de5cc6571b6029574667d5271af7     334 days 11 hrs ago  0x795ca0291898de5cc6571b6029574667d5271af7  OUT 0x30ca86c17723cd24e8e49f4fc039a3125e9e62a8            0.003112 ETH
-0xed31625260ae8d1a80abc69cadc231df177af7be      334 days 11 hrs ago  0xed31625260ae8d1a80abc69cadc231df177af7be	 OUT 0x41b6fe6bcbc3432841d586a2777f0cae80098aeb      0.003127 ETH
-0xde2cae40f65b9c366b1d67e9ec2a38c7eeb6908c     334 days 12 hrs ago 0xde2cae40f65b9c366b1d67e9ec2a38c7eeb6908c  OUT 0xaa401cfa8d63441d8637bc16a9bcea58aca1a798      0.003143 ETH
-0x4a507fe303b76ac37c3db0bfd62ad754aa238745      334 days 12 hrs ago 0x4a507fe303b76ac37c3db0bfd62ad754aa238745   OUT 0x0af7cbe3823e4497f22fb1db45fb39137d3d69fe          0.003171 ETH
-0x8ef009a5e5d6bc1e56ca85d580adb6ab12c62d2e     334 days 12 hrs ago 0x8ef009a5e5d6bc1e56ca85d580adb6ab12c62d2e  OUT 0xb2bd22f188c75f153fb55ccfe2aaf55a7674bd02          0.003137 ETH
-0x7e9880235bd02d4ccb55caa4042cf3835dd45c0b     334 days 12 hrs ago 0x7e9880235bd02d4ccb55caa4042cf3835dd45c0b  OUT 0xe601f45fd570ae600f0171e8831b2af3e073ff48           0.003145 ETH
-0xb44bb446a50b40069616601051e64f4a26a92850     334 days 12 hrs ago 0xb44bb446a50b40069616601051e64f4a26a92850	OUT  0x3ce91337f19523fc2dcf6641ed7bfeeecc946a7a 	   0.003177 ETH
-0x0b9438285b0db1b38e18cbe75caf725284253904     334 days 12 hrs ago 0x0b9438285b0db1b38e18cbe75caf725284253904	OUT  0x2926f76312c9f6c93ef6c856dea92e23c6681cea	   0.003149 ETH
-0x6f3de21bbc2d87331e6ba7edd0095fda996cae4d      334 days 12 hrs ago 0x6f3de21bbc2d87331e6ba7edd0095fda996cae4d	OUT  0x422c746e7ee014efce8ae529b3730ea075e5023e	    0.003101 ETH
-0x90679ecb7025636e6d15483ba73153ac27013c77    334 days 12 hrs ago 0x90679ecb7025636e6d15483ba73153ac27013c77	OUT   0x16754378681924c04e43c6235ccdde8713e14058	    0.003131 ETH
-0xd528ff0f2dc9937addabde6662bf47ad096e2c70        334 days 12 hrs ago 0xd528ff0f2dc9937addabde6662bf47ad096e2c70      OUT  0xd35a0f3703ade6d8bfd82df20c4d4eb0ffdd79c0          0.003136 ETH
-0x8fc5fb741c33498bdfb74296b7db442c880d4a6e       334 days 12 hrs ago 0x8fc5fb741c33498bdfb74296b7db442c880d4a6e	OUT   0xbe672e8e53718be3e7ec75460e26b40d9a4ede0b     0.003141 ETH
-0xe4c7ca9bec373a87700bda2d424038e45dc584d4    334 days 12 hrs ago 0xe4c7ca9bec373a87700bda2d424038e45dc584d4	OUT   0xb1d33893d81703cb1b77a86b1b3675d7061cfabe	    0.003176 ETH
-0x486cd0026a5603f0be11a876d1ec7d594ed076cc     334 days 12 hrs ago  0x486cd0026a5603f0be11a876d1ec7d594ed076cc   OUT   0xfa97c9d2583affd60467979009eb88a6ee0d4570      0.003179 ETH
-0xc1fa5f13ab06ca111fa73e6e2d74730bac06ef9a        334 days 12 hrs ago  0xc1fa5f13ab06ca111fa73e6e2d74730bac06ef9a       OUT  0x8270f6c8ca202f8011742fea91bdc87e5c7c0597       0.003184 ETH
-0x2356fad3441b1db07b1be71b1d134a495103dffb      334 days 12 hrs ago  0x2356fad3441b1db07b1be71b1d134a495103dffb     OUT  0x5f69d49614cb9402fbd1916a5cc92221b8b72de1       0.003153 ETH
-0x16d5eeca748372ec8fa14880b23ca9d736bad1f6     334 days 12 hrs ago  0x16d5eeca748372ec8fa14880b23ca9d736bad1f6   OUT  0x29ddcc18e33e3a644103af20a4e8a690dd87c21c       0.003172 ETH
-0x8af3add5c45b9038a8a719fa26fb926c6a758c70      334 days 12 hrs ago  0x8af3add5c45b9038a8a719fa26fb926c6a758c70    OUT  0x21aee5b8d02100b8b87c2b9ad31470e9f1459fd3        0.003134 ETH
-0x0356a5839928f4f31651cc38009606db6c8f4f04       334 days 12 hrs ago  0x0356a5839928f4f31651cc38009606db6c8f4f04     OUT   0xe98421baa1de13b3b99251c652255fc610505e78      0.003111 ETH
-0xb37ff7f6b4eb07fde6a468e9bfc38b149a945da2        334 days 12 hrs ago   0xb37ff7f6b4eb07fde6a468e9bfc38b149a945da2     OUT   0xfb8e12e2ea355c7c14cd921dca5860d8a09516f3       0.003133 ETH
-0x213d0c004ee313f7929ead2894194b494c511740    334 days 12 hrs ago   0x213d0c004ee313f7929ead2894194b494c511740	OUT  0xc9f41025164e415dfba4ae1863a95716635a6265	    0.003149 ETH
-0x35a319fd3d81dc22b018859a1a9aebaa11d482aa    334 days 12 hrs ago   0x35a319fd3d81dc22b018859a1a9aebaa11d482aa	OUT  0x35b7f8b84fcaa905f44f28a8a89b9f66d6ada036	    0.003185 ETH
+0x795ca0291898de5cc6571b6029574667d5271af7      334 days 11 hrs ago  0x795ca0291898de5cc6571b6029574667d5271af7  OUT 0x30ca86c17723cd24e8e49f4fc039a3125e9e62a8         0.003112 ETH
+0xed31625260ae8d1a80abc69cadc231df177af7be      334 days 11 hrs ago  0xed31625260ae8d1a80abc69cadc231df177af7be	 OUT 0x41b6fe6bcbc3432841d586a2777f0cae80098aeb         0.003127 ETH
+0xde2cae40f65b9c366b1d67e9ec2a38c7eeb6908c      334 days 12 hrs ago 0xde2cae40f65b9c366b1d67e9ec2a38c7eeb6908c  OUT 0xaa401cfa8d63441d8637bc16a9bcea58aca1a798          0.003143 ETH
+0x4a507fe303b76ac37c3db0bfd62ad754aa238745      334 days 12 hrs ago 0x4a507fe303b76ac37c3db0bfd62ad754aa238745   OUT 0x0af7cbe3823e4497f22fb1db45fb39137d3d69fe         0.003171 ETH
+0x8ef009a5e5d6bc1e56ca85d580adb6ab12c62d2e      334 days 12 hrs ago 0x8ef009a5e5d6bc1e56ca85d580adb6ab12c62d2e  OUT 0xb2bd22f188c75f153fb55ccfe2aaf55a7674bd02          0.003137 ETH
+0x7e9880235bd02d4ccb55caa4042cf3835dd45c0b      334 days 12 hrs ago 0x7e9880235bd02d4ccb55caa4042cf3835dd45c0b  OUT 0xe601f45fd570ae600f0171e8831b2af3e073ff48          0.003145 ETH
+0xb44bb446a50b40069616601051e64f4a26a92850      334 days 12 hrs ago 0xb44bb446a50b40069616601051e64f4a26a92850	OUT  0x3ce91337f19523fc2dcf6641ed7bfeeecc946a7a 	      0.003177 ETH
+0x0b9438285b0db1b38e18cbe75caf725284253904      334 days 12 hrs ago 0x0b9438285b0db1b38e18cbe75caf725284253904	OUT  0x2926f76312c9f6c93ef6c856dea92e23c6681cea	        0.003149 ETH
+0x6f3de21bbc2d87331e6ba7edd0095fda996cae4d      334 days 12 hrs ago 0x6f3de21bbc2d87331e6ba7edd0095fda996cae4d	OUT  0x422c746e7ee014efce8ae529b3730ea075e5023e	        0.003101 ETH
+0x90679ecb7025636e6d15483ba73153ac27013c77      334 days 12 hrs ago 0x90679ecb7025636e6d15483ba73153ac27013c77	OUT   0x16754378681924c04e43c6235ccdde8713e14058	      0.003131 ETH
+0xd528ff0f2dc9937addabde6662bf47ad096e2c70      334 days 12 hrs ago 0xd528ff0f2dc9937addabde6662bf47ad096e2c70  OUT  0xd35a0f3703ade6d8bfd82df20c4d4eb0ffdd79c0         0.003136 ETH
+0x8fc5fb741c33498bdfb74296b7db442c880d4a6e      334 days 12 hrs ago 0x8fc5fb741c33498bdfb74296b7db442c880d4a6e	OUT   0xbe672e8e53718be3e7ec75460e26b40d9a4ede0b        0.003141 ETH
+0xe4c7ca9bec373a87700bda2d424038e45dc584d4      334 days 12 hrs ago 0xe4c7ca9bec373a87700bda2d424038e45dc584d4	OUT   0xb1d33893d81703cb1b77a86b1b3675d7061cfabe	      0.003176 ETH
+0x486cd0026a5603f0be11a876d1ec7d594ed076cc      334 days 12 hrs ago  0x486cd0026a5603f0be11a876d1ec7d594ed076cc OUT   0xfa97c9d2583affd60467979009eb88a6ee0d4570        0.003179 ETH
+0xc1fa5f13ab06ca111fa73e6e2d74730bac06ef9a      334 days 12 hrs ago  0xc1fa5f13ab06ca111fa73e6e2d74730bac06ef9a  OUT  0x8270f6c8ca202f8011742fea91bdc87e5c7c0597        0.003184 ETH
+0x2356fad3441b1db07b1be71b1d134a495103dffb      334 days 12 hrs ago  0x2356fad3441b1db07b1be71b1d134a495103dffb  OUT  0x5f69d49614cb9402fbd1916a5cc92221b8b72de1        0.003153 ETH
+0x16d5eeca748372ec8fa14880b23ca9d736bad1f6      334 days 12 hrs ago  0x16d5eeca748372ec8fa14880b23ca9d736bad1f6  OUT  0x29ddcc18e33e3a644103af20a4e8a690dd87c21c        0.003172 ETH
+0x8af3add5c45b9038a8a719fa26fb926c6a758c70      334 days 12 hrs ago  0x8af3add5c45b9038a8a719fa26fb926c6a758c70  OUT  0x21aee5b8d02100b8b87c2b9ad31470e9f1459fd3        0.003134 ETH
+0x0356a5839928f4f31651cc38009606db6c8f4f04      334 days 12 hrs ago  0x0356a5839928f4f31651cc38009606db6c8f4f04  OUT   0xe98421baa1de13b3b99251c652255fc610505e78       0.003111 ETH
+0xb37ff7f6b4eb07fde6a468e9bfc38b149a945da2      334 days 12 hrs ago 0xb37ff7f6b4eb07fde6a468e9bfc38b149a945da2  OUT   0xfb8e12e2ea355c7c14cd921dca5860d8a09516f3        0.003133 ETH
+0x213d0c004ee313f7929ead2894194b494c511740      334 days 12 hrs ago   0x213d0c004ee313f7929ead2894194b494c511740	OUT  0xc9f41025164e415dfba4ae1863a95716635a6265	      0.003149 ETH
+0x35a319fd3d81dc22b018859a1a9aebaa11d482aa      334 days 12 hrs ago   0x35a319fd3d81dc22b018859a1a9aebaa11d482aa	OUT  0x35b7f8b84fcaa905f44f28a8a89b9f66d6ada036	      0.003185 ETH
 
 0x280b896d04902306e4ba762c47eaf7a1b7176e5b    334 days 13 hrs ago 0x280b896d04902306e4ba762c47eaf7a1b7176e5b	OUT    0x31feb37de60fa34a6c0b3b9410e8982ee725e4e1	     0.003108 ETH
 0x04eab62d3cb4c775a7334ef0093287c3a5166f33     334 days 13 hrs ago 0x04eab62d3cb4c775a7334ef0093287c3a5166f33	OUT    0x1be6c072debdbb72100450f38367a76c029cc016	     0.003151 ETH
